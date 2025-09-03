@@ -1480,6 +1480,6 @@ document.addEventListener('DOMContentLoaded', function() {
         &copy; 2025 Sewa Tanah Nusa Penida. All rights reserved.
       </div>
     </footer>
-  </div>
+
 
   
